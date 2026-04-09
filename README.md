@@ -14,7 +14,7 @@ The files include different combinations of settings that users have tested on t
 Before using any of these files, it is recommended to review them carefully and test on your own system.
 
 <div align="center">
-  <a href="#" target="_blank" rel="noopener">
+  <a href="https://sensor-lab-windows.github.io/Hardware-Examples/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Download_Examples-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Download Examples" width="350"
          style="border-radius:8px;" />
